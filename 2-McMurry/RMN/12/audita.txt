@@ -1,0 +1,23 @@
+##TITLE= Audit trail, TOPSPIN		Version 3.2
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= root
+$$ C:/Users/root/Desktop/RMN/DOCENCIA/data/Docencia/nmr/MG-III-02 -Grupo 2/12/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2017-08-27 06:53:32.213 -0500>,<root>,<QUIEQP303001>,<go>,<TOPSPIN 3.2>,
+      <created by zg
+	started at 2017-08-27 04:56:19.515 -0500,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       8E EA B7 81 0C 1D 5D 6D 3E 54 53 FF 91 7F 7B 9B
+       data hash MD5: 64K
+       37 3E 92 6C 42 29 8A 87 1B 6C 5B 25 A4 4D E5 81>)
+(   2,<2017-08-27 06:53:33.009 -0500>,<root>,<QUIEQP303001>,<audit>,<TOPSPIN 3.2>,
+      <user comment:
+       ICON-NMR User ID: Docencia
+       data hash MD5: 64K
+       37 3E 92 6C 42 29 8A 87 1B 6C 5B 25 A4 4D E5 81>)
+##END=
+
+$$ hash MD5
+$$ 09 9E 80 B1 A6 DF 4D 98 32 06 A9 AC 1E BD FF 6D

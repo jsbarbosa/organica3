@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TOPSPIN		Version 3.2
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= root
+$$ 2017-08-26 15:04:28.616 -0500  root@QUIEQP303001
+$$ C:/Bruker/TopSpin3.2/prog/curdir/changer/inmrchanger/Aug18-2017-1641-root/2/data/nmr/MG-III-02 -Grupo 2/12/pdata/1/outd
+$$ process C:\Bruker\TopSpin3.2\prog\mod\xwish3.exe
+##$CURPLOT= <Microsoft XPS Document Writer>
+##$CURPRIN= <$Microsoft XPS Document Writer>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/1D_X.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=

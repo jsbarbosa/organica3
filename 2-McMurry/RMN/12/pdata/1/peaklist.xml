@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="root" date="2017-08-27T06:53:33.851-05:00" expNo="12" name="MG-III-02 -Grupo 2" owner="" procNo="1" source="C:/Users/root/Desktop/RMN/DOCENCIA/data/Docencia/nmr">
+      <PeakPickDetails>F1=219.423004ppm, F2=-19.497574ppm, MI=0.00cm, MAXI=10000.00cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="198.814255" intensity="3.563595e+000" type="0"/>
+    <Peak1D F1="158.975311" intensity="3.233592e+000" type="0"/>
+    <Peak1D F1="158.342865" intensity="4.322596e-001" type="0"/>
+    <Peak1D F1="133.725311" intensity="4.176315e-001" type="0"/>
+    <Peak1D F1="130.807251" intensity="8.732701e-001" type="0"/>
+    <Peak1D F1="130.699387" intensity="6.090907e-001" type="0"/>
+    <Peak1D F1="130.154312" intensity="1.500000e+001" type="0"/>
+    <Peak1D F1="129.760696" intensity="5.176380e-001" type="0"/>
+    <Peak1D F1="129.524582" intensity="8.798117e-001" type="0"/>
+    <Peak1D F1="129.316330" intensity="7.930951e-001" type="0"/>
+    <Peak1D F1="129.181091" intensity="1.567298e+000" type="0"/>
+    <Peak1D F1="128.786606" intensity="5.971292e-001" type="0"/>
+    <Peak1D F1="128.472763" intensity="3.492007e+000" type="0"/>
+    <Peak1D F1="127.681023" intensity="5.001511e-001" type="0"/>
+    <Peak1D F1="127.402092" intensity="4.215511e-001" type="0"/>
+    <Peak1D F1="125.526573" intensity="3.959330e-001" type="0"/>
+    <Peak1D F1="114.391388" intensity="1.457032e+001" type="0"/>
+    <Peak1D F1="114.086037" intensity="1.813173e+000" type="0"/>
+    <Peak1D F1="113.894371" intensity="1.078639e+000" type="0"/>
+    <Peak1D F1="113.798203" intensity="1.085702e+000" type="0"/>
+    <Peak1D F1="113.627075" intensity="7.907548e-001" type="0"/>
+    <Peak1D F1="113.542809" intensity="8.870472e-001" type="0"/>
+    <Peak1D F1="113.453400" intensity="7.129590e-001" type="0"/>
+    <Peak1D F1="113.273216" intensity="5.954960e-001" type="0"/>
+    <Peak1D F1="77.345604" intensity="4.037584e+001" type="0"/>
+    <Peak1D F1="77.230690" intensity="2.039831e+000" type="0"/>
+    <Peak1D F1="77.027733" intensity="4.197918e+001" type="0"/>
+    <Peak1D F1="76.710022" intensity="4.059481e+001" type="0"/>
+    <Peak1D F1="70.945808" intensity="7.464093e-001" type="0"/>
+    <Peak1D F1="70.624023" intensity="7.058548e-001" type="0"/>
+    <Peak1D F1="70.099739" intensity="8.654724e-001" type="0"/>
+    <Peak1D F1="69.959251" intensity="1.049997e+000" type="0"/>
+    <Peak1D F1="67.979103" intensity="1.314444e+001" type="0"/>
+    <Peak1D F1="66.206566" intensity="4.600930e-001" type="0"/>
+    <Peak1D F1="62.758717" intensity="1.020170e+000" type="0"/>
+    <Peak1D F1="62.489197" intensity="3.939213e+000" type="0"/>
+    <Peak1D F1="62.057644" intensity="1.891431e+000" type="0"/>
+    <Peak1D F1="55.288345" intensity="7.686069e+000" type="0"/>
+    <Peak1D F1="55.248985" intensity="2.626295e+000" type="0"/>
+    <Peak1D F1="55.201294" intensity="1.937330e+000" type="0"/>
+    <Peak1D F1="44.982426" intensity="1.127182e+000" type="0"/>
+    <Peak1D F1="44.922359" intensity="2.911604e+000" type="0"/>
+    <Peak1D F1="34.228786" intensity="4.019688e-001" type="0"/>
+    <Peak1D F1="32.331276" intensity="5.729856e-001" type="0"/>
+    <Peak1D F1="30.306963" intensity="1.547748e+000" type="0"/>
+    <Peak1D F1="29.919216" intensity="2.391506e+000" type="0"/>
+    <Peak1D F1="29.530472" intensity="1.255994e+000" type="0"/>
+    <Peak1D F1="29.445597" intensity="1.094446e+000" type="0"/>
+    <Peak1D F1="29.029495" intensity="2.438054e+000" type="0"/>
+    <Peak1D F1="27.068583" intensity="1.522258e+000" type="0"/>
+    <Peak1D F1="26.974066" intensity="8.808315e-001" type="0"/>
+    <Peak1D F1="26.870323" intensity="8.595614e-001" type="0"/>
+    <Peak1D F1="26.486805" intensity="1.230490e+000" type="0"/>
+    <Peak1D F1="25.607594" intensity="1.210509e+001" type="0"/>
+    <Peak1D F1="23.508018" intensity="4.588162e-001" type="0"/>
+    <Peak1D F1="-0.003645" intensity="7.318487e+000" type="0"/>
+  </PeakList1D>
+</PeakList>
