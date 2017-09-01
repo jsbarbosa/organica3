@@ -19,6 +19,7 @@
 \documentclass[fleqn,10pt]{SelfArx}
 %\usepackage[superscript]{cite}
 \usepackage{wrapfig}
+\usepackage{subcaption}
 %----------------------------------------------------------------------------------------
 %	ARTICLE INFORMATION
 %----------------------------------------------------------------------------------------
@@ -38,6 +39,8 @@
 \begin{wrapfigure}{r}{0.45\textwidth}
 	\centering\includegraphics[width=0.9\linewidth]{structures/Reaction.png}
 \end{wrapfigure}
+
+La preparaci\'on del (\textit{E})-1,2-bis(4-metoxifenil)eteno se llev\'o a cabo usando 4-metoxibenzaldehido, cloruro de titanio (IV) y zinc, en una reacci\'on de McMurry. La reacci\'on tuvo una duraci\'on de 19 horas y un rendimiento de \_\_\_ \%. La caracterizaci\'on del producto se llev\'o a cabo usando $^1$HRMN y $^{13}$CRMN. 
 }
 
 %----------------------------------------------------------------------------------------
@@ -61,22 +64,68 @@
 \section*{Introducci\'on} % The \section*{} command stops section numbering
 %------------------------------------------------
 
-La reacci\'on de McMurry fue publicada en 1974, por John E. McMurry. Esta reacci\'on consiste en el acoplamiento carbonilos, para formar alquenos. En este sentido la reacci\'on es an\'aloga al acoplamiento de Sharpless \cite{doi:10.1021/ja00188a068}. Una ventaja de la reacci\'on de McMurry es que es posible realizar acoplamientos intra e inter moleculares de aldeh\'idos y cetonas. Sin embargo el control de la estereoqu\'imica es limitado
+La reacci\'on de McMurry fue publicada en 1974, por John E. McMurry. Si bien var\'ios art\'iculos fueron publicados en la d\'ecada de los 70 \cite{Mukaiyama1973}\cite{Mukaiyama1974}, sobre reacciones de acoplamiento reductivo de carbonilos a alquenos usando esp\'ecies de titanio con bajo estado de oxidaci\'on fue Mcmurry el que hizo un estudio detallado de los alcances de la reacci\'on \cite{Wang2010}.
 
-La reacci\'on se lleva a cabo usando esp\'ecies de titanio con bajo n\'umero de oxidaci\'on . 
+Los alquenos producidos por este m\'etodo suelen ser \textit{trans}, sin embargo existen casos donde se da el \textit{cis} mayoritariamente. El control de la estereoqu\'imica en la reacci\'on de McMurry es limitado por el tama\~no de las mol\'eculas reactantes. Por otro lado la reacci\'on \'unicamente funciona con eficacia en los casos donde el acoplamiento se da entre compuestos arom\'aticos \cite{Wang2010}. Para que la reacci\'on se lleve acabo son necesarias altas temperaturas y tiempos prolongados para la desoxigenaci\'on de la mol\'ecula \cite{Wang2010}\cite{Villiers1997}.
+
+\begin{scheme}[h]
+	\centering
+	\includegraphics[width=0.9\linewidth]{structures/generalreaction.png}
+	\caption{Reacci\'on general de McMurry. El estado de oxidaci\'on del titanio es $0<n<3$. \ce{R1, R3}: alquil o aril, \ce{R2, R4}: H, alquil o aril. \cite{Wang2010}}
+\end{scheme}
+
+La reacci\'on de McMurry es muy usada para la formaci\'on de alquenos a partir de aldeh\'idos, siendo una ventaja importante la posibilidad de realizar acoplamientos intra e intermoleculares de aldeh\'idos y cetonas en macrociclos \cite{Wang2010}\cite{Villiers1997}. La reacci\'on tiene lugar con esp\'ecies de titanio con estados de oxidaci\'on $+1$ y $+2$, junto con un agente reductor. Una gran cantidad de agentes reductores han sido usados en la reacci\'on de McMurry, ejemplos de estos son: \ce{Mg}, \ce{Zn}, \ce{LiAlH4}, \ce{LiBH4}, \ce{LiH}, \ce{CaH2} \cite{Wang2010}.
+
+\newpage
 
 \section{Resultados y Discusi\'on}
-
 El titanio (IV) se reduce en presencia de zinc (\autoref{eq: reduccion}), formando una esp\'ecie divalente oxof\'ilica y reductora \cite{richards2001}. La reacci\'on se lleva a cabo en tetrahidrofurano por dos razones: la primera es que el cloruro de titanio (IV) es soluble en THF, y por otro lado este disolvente no se reduce por las condiciones de la reacci\'on \cite{richards2001}. Esta etapa comprende la primera parte de la reacci\'on, la cual se lleva a cabo a reflujo por una hora.
 \begin{equation}\label{eq: reduccion}
 	\ce{TiCl_4 + Zn ->[\Delta] TiCl2 + ZnCl2}
 \end{equation}
 
-Una vez se adiciona el \textit{p}-metoxibenzaldehido al medio de reacci\'on un electr\'on de valencia del titanio ataca al ox\'igeno generando a su vez un radical sobre el carbono carbon\'ilico (). Posteriormente el radical de titanio ataca de forma an\'aloga a otra mol\'ecula de benzaldehido (). Posteriormente tiene lugar la ciclaci\'on, en este punto dos posibles intermediarios se pueden formar dependiendo de la orientaci\'on de los ciclos. Teniendo en cuenta el volumen de los ciclos y las interacciones desfavorables que se tienen si ambos se encuentran muy cerca, la ciclaci\'on se da a manera de puente, formando un pinacol (). Posteriormente un \'atomo de zinc reduce al titanio y se da la liberaci\'on del \'oxido de titanio (IV), y se genera el producto de estereoqu\'imica \textit{E} \cite{richards2001}.
+La segunda parte de la reacci\'on mecan\'isticamente se divide en dos etapas. La primera es la formaci\'on del pinacol seguida de la desoxigenaci\'on del mismo. Aquí se discuten dos posibles mecanismos para la reacci\'on de acoplamiento. En la primera, una vez se adiciona el \textit{p}-metoxibenzaldehido al medio de reacci\'on un electr\'on de valencia del titanio ataca al ox\'igeno generando a su vez un radical sobre el carbono carbon\'ilico (a). Posteriormente el radical de titanio ataca de forma an\'aloga a otra mol\'ecula de benzaldehido (b). Luego tiene lugar la ciclaci\'on (c), en este punto dos posibles intermediarios se pueden formar dependiendo de la orientaci\'on de los ciclos.
+\begin{scheme}[h]
+	\centering
+	\includegraphics[width = 0.8\linewidth]{structures/EZdetermined.png}
+	\caption{Posibles formas en las que tiene lugar la ciclaci\'on.}
+	\label{sch: EZ}
+\end{scheme}
+
+Teniendo en cuenta el volumen de los ciclos y las interacciones desfavorables que se tienen si ambos se encuentran muy cerca, la ciclaci\'on se da a manera de puente (\textit{R, R}), formando un pinacol (d). Posteriormente se da la desoxigenaci\'on con la liberaci\'on del \'oxido de titanio (IV), y se genera el producto de estereoqu\'imica \textit{E} \cite{richards2001}. Cabe mencionar que seg\'un este mecanismo, si el ciclo tiene la estereoqu\'imica \textit{R, S} el producto final ser\'a el \textit{Z}.
 \begin{scheme}[h]
 	\centering
 	\includegraphics[width = \linewidth]{structures/mechanism.png}
-	\caption{Mecanismo de reacci\'on propuesto.}
+	\caption{Primer mecanismo de reacci\'on propuesto.}
+\end{scheme}
+
+El segundo mecanismo propuesto involucra una esp\'ecie de titanio con un \'unico electr\'on disponible. En este caso el ataque del titanio se da por aparte en dos mol\'eculas de benzaldeh\'ido (g). Posteriormente tiene lugar el acoplamiento con los radicales, en este paso tambi\'en es posible que se formen los estereois\'omeros \textit{R, R} o \textit{R, S} an\'alogo al \autoref{sch: EZ}. Posteriormente tiene lugar la desoxigenaci\'on con la formaci\'on de un nuevo enlace titanio \'oxigeno sobre los dos ox\'igenos de la mol\'ecula, y la formaci\'on de un enlace $\pi$ carbono-carbono (j) \cite{Wang2010}.
+\begin{scheme}[h]
+	\centering
+	\includegraphics[width = \linewidth]{structures/mechanism2.png}
+	\caption{Segundo mecanismo de reacci\'on propuesto \cite{Wang2010}.}
+\end{scheme}
+
+Es posible que ambos mecanismos ocurran en el medio de reacci\'on, dependiendo de la existencia de las esp\'ecies correspondientes de titanio.
+
+En ambos mecanismos es posible observar el efecto del agua en la reacci\'on, tanto los compuestos (d) como (i) en contacto con agua dar\'an lugar a la formaci\'on del diol, compuesto que se muestra en el \autoref{sch: diol}.
+
+\begin{scheme}[h]
+	\centering
+	\scriptsize
+	\begin{subfigure}[t]{0.49\linewidth}
+		\centering
+		\includegraphics[width=0.9\linewidth]{structures/product.png}
+		\caption{(\textit{E})-1,2-bis(4-metoxifenil)eteno}
+		\label{sch: producto}
+	\end{subfigure}
+	\begin{subfigure}[t]{0.49\linewidth}
+		\centering
+		\includegraphics[width=0.9\linewidth]{structures/product2.png}
+		\caption{(\textit{E})-1,2-bis(4-metoxifenil)etano-1,2-diol}
+		\label{sch: diol}
+	\end{subfigure}
+	\caption{Productos de la reacci\'on.}
 \end{scheme}
 
 \section{Conclusiones}
