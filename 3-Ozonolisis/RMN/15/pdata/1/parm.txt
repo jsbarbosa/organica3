@@ -1,0 +1,50 @@
+
+Current Data Parameters
+NAME     MG-III-03 Grupo 2              
+EXPNO                15              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20170904              
+Time              21.37              
+INSTRUM           spect              
+PROBHD   5 mm PABBO BB/              
+PULPROG          zgpg30              
+TD                65536              
+SOLVENT           CDCl3              
+NS                 1024              
+DS                    4              
+SWH           24038.461 Hz           
+FIDRES         0.366798 Hz           
+AQ            1.3631488 sec          
+RG               207.54              
+DW               20.800 usec         
+DE                 6.50 usec         
+TE       0 K            
+D1           2.00000000 sec          
+D11          0.03000000 sec          
+TD0                   1              
+
+======== CHANNEL f1 ========
+SFO1        100.6228293 MHz          
+NUC1                13C              
+P1                 9.16 usec         
+PLW1        76.00000000 W            
+
+======== CHANNEL f2 ========
+SFO2        400.1316005 MHz          
+NUC2                 1H              
+CPDPRG[2        waltz16              
+PCPD2             80.00 usec         
+PLW2        17.00000000 W            
+PLW12        0.31097001 W            
+PLW13        0.19902000 W            
+
+F2 - Processing parameters
+SI                32768              
+SF          100.6127672 MHz          
+WDW                  EM              
+SSB      0              
+LB                 1.00 Hz           
+GB       0              
+PC                 1.40              

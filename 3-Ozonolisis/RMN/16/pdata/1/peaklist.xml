@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="root" date="2017-09-04T21:56:59.442-05:00" expNo="16" name="MG-III-03 Grupo 2" owner="" procNo="1" source="C:/Users/root/Desktop/RMN/DOCENCIA/data/Docencia/nmr">
+      <PeakPickDetails>F1=160.149307ppm, F2=-0.158698ppm, MI=0.00cm, MAXI=10000.00cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="132.203293" intensity="-3.874390e+000" type="0"/>
+    <Peak1D F1="132.104599" intensity="-5.247527e+000" type="0"/>
+    <Peak1D F1="128.514648" intensity="-3.307356e+000" type="0"/>
+    <Peak1D F1="76.504929" intensity="-3.162039e+000" type="0"/>
+    <Peak1D F1="43.786026" intensity="5.128163e+000" type="0"/>
+    <Peak1D F1="43.561836" intensity="1.345943e+001" type="0"/>
+    <Peak1D F1="43.463219" intensity="6.155567e+000" type="0"/>
+    <Peak1D F1="34.320705" intensity="3.161245e+000" type="0"/>
+    <Peak1D F1="33.534225" intensity="5.777732e+000" type="0"/>
+    <Peak1D F1="32.758274" intensity="5.271260e+000" type="0"/>
+    <Peak1D F1="32.680294" intensity="4.579903e+000" type="0"/>
+    <Peak1D F1="25.598148" intensity="6.192212e+000" type="0"/>
+    <Peak1D F1="24.119019" intensity="7.045398e+000" type="0"/>
+    <Peak1D F1="24.056166" intensity="4.646731e+000" type="0"/>
+    <Peak1D F1="23.379234" intensity="3.279866e+000" type="0"/>
+    <Peak1D F1="22.001474" intensity="5.083597e+000" type="0"/>
+    <Peak1D F1="21.905733" intensity="3.632544e+000" type="0"/>
+    <Peak1D F1="21.654549" intensity="6.323867e+000" type="0"/>
+    <Peak1D F1="21.491060" intensity="1.500000e+001" type="0"/>
+    <Peak1D F1="21.437790" intensity="8.604584e+000" type="0"/>
+  </PeakList1D>
+</PeakList>
