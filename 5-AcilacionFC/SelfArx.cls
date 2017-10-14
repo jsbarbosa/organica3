@@ -261,7 +261,7 @@ justification=raggedright]{caption}
 \definecolor{color2}{RGB}{255,243,201} % Color of the boxes behind the abstract and headings
 
 \RequirePackage{hyperref} % Required for hyperlinks
-\hypersetup{hidelinks,colorlinks,breaklinks=true,urlcolor=color2,citecolor=color1,linkcolor=color1,bookmarksopen=false,pdftitle={Title},pdfauthor={Author}}
+\hypersetup{hidelinks,colorlinks,breaklinks=true,urlcolor=color1,citecolor=color1,linkcolor=color1,bookmarksopen=false,pdftitle={Title},pdfauthor={Author}}
 
 \Authors{Andres Martinez$^\dagger$, Juan Barbosa $^\ddagger$} % Authors
 \affiliation{\textit{Departamento de Qu\'imica}.$^\dagger$\textit{Departamento de Ingenieria Química}, $^\ddagger$\textit{Departamento de F\'isica}. Universidad de los Andes, Bogot\'a, Colombia.} % Author affiliation
