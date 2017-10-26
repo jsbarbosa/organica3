@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="root" date="2017-10-22T15:05:26.392-05:00" expNo="12" name="AM-III-06 grupo 5" owner="" procNo="1" source="C:/Users/root/Desktop/RMN/DOCENCIA/data/Docencia/nmr">
+      <PeakPickDetails>F1=219.455597ppm, F2=-19.464989ppm, MI=0.00cm, MAXI=10000.00cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="171.900116" intensity="2.392432e+000" type="0"/>
+    <Peak1D F1="147.094894" intensity="6.353792e+000" type="0"/>
+    <Peak1D F1="134.107056" intensity="3.193808e+000" type="0"/>
+    <Peak1D F1="130.759796" intensity="6.300312e+000" type="0"/>
+    <Peak1D F1="128.990387" intensity="1.482440e+001" type="0"/>
+    <Peak1D F1="128.384628" intensity="1.500000e+001" type="0"/>
+    <Peak1D F1="117.257515" intensity="7.102341e+000" type="0"/>
+    <Peak1D F1="77.339638" intensity="3.673397e+001" type="0"/>
+    <Peak1D F1="77.022621" intensity="3.765631e+001" type="0"/>
+    <Peak1D F1="76.704758" intensity="3.705308e+001" type="0"/>
+    <Peak1D F1="0.002780" intensity="1.525577e+000" type="0"/>
+  </PeakList1D>
+</PeakList>
